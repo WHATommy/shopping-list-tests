@@ -1,9 +1,0 @@
-language: node_js
-node_js: node
-deploy:
-  provider: heroku
-  api_key: yyi30fLF-v2M1_0F2payxA
-    secure: fD5uy/7o1nZAiNaJTf6ArFRktpuPtKJq/cQA+cel1HInr6JNdfmKjwvfTYofiNFLdHgtetaLGCAa5/+ACtZXeZVQt3Y+Kom6dDxhCIUZjg7NRx0n9P/hYpXfTa5dEBgHC6coiBQtIII08tLfJV5rDh/sAYjcBKXxH8z+Fd7CcW6uoyQcLEYeRvbhNzj98NFjrCh1pT8tZ595cAUmzUxUI4pmz6y3Hpqoecmn9jWA9Snx+RE4VRg3CveMYjnpxFdt72n9JZX4kp/pZjw9enETJm+N6wh6onO2kJgpgu9D36iRZmJK4Srj4V9iNmuuXmeO9sy5tDBBjQum4m43k/rGWBYnScqo5mH8DIjGklfa4WFU8OKLvBRf/xoiSq3OXL7472iLGhPw1xzwvxwgsPrVgpoN8/uRapEPKalM8GG4ubSFKtDjx5na7G77uWaG0BS4slUUHeYByn7IkuKfGd1eZQevHUjyU2QBflz2sTFi5G1U9RV1lBUEe7MMrwQFziBipZIuCuEEoGJHt5QCk06PGg2+wI9Arq8Bp4wjCVvlb4JiArcSUTZaegVv9DwyjmplSbrlYjuPk4Cz1xowNiRH15nYwC1n7hyoKe5QFmQndA0S/C/49wgGr6HuJ6rcnegk762iwLXAs+WiECmbEPM5EeC6xU/kJSO/LicplVJ7Iys=
-  app: fast-chamber-40987
-  on:
-    repo: WHATommy/shopping-integration-tests
