@@ -1,2 +1,8 @@
 language: node_js
 node_js: node
+deploy:
+  provider: heroku
+  api_key: 'language: node_js'
+  app: 'stark-bastion-50534'
+  on:
+    repo: WHATommy/shopping-list-tests
